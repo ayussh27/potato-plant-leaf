@@ -71,7 +71,7 @@ a:hover,  a:active {
 </style>
 
 <div class="footer">
-<p align="center"> <a href="https://github.com/ayussh27/potato-plant-leaf">Develped by Para Solutions</a></p>
+<p align="center"> <a href="https://github.com/ayussh27/potato-plant-leaf">Developed by Para Solutions</a></p>
 </div>
         """
 
