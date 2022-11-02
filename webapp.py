@@ -14,7 +14,7 @@ hide_streamlit_style = """
             """
 st.markdown(hide_streamlit_style, unsafe_allow_html = True)
 
-st.title('Disease Detection in Potato Leaves Guided By Sudha Rani Mam')
+st.title('Disease Detection in Potato Leaves Guided By Prof Sunil Khachane Sir')
 
 def main() :
     file_uploaded = st.file_uploader('Choose an image...', type = 'jpg')
@@ -71,7 +71,7 @@ a:hover,  a:active {
 </style>
 
 <div class="footer">
-<p align="center"> <a href="https://www.linkedin.com/in/venkata-rao-gurram-448b44150/">Develped by Venkatarao Gurram</a></p>
+<p align="center"> <a href="https://github.com/ayussh27/potato-plant-leaf">Develped by Para Solutions</a></p>
 </div>
         """
 
